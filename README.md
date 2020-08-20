@@ -21,3 +21,5 @@ make
 The search for the optimal (for a given number of ants) flow is performed using the Edmonds-Karp algorithm.
 We find shortest ways from start to end, mark them as visited and save them.
 We then used another algorithm to take the valid paths from smallest to largest and determine how many of them we should use to get all the ants to the end of the map as quickly as possible.
+-----
+Special thanks to hgalazza, my project partner!
